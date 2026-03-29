@@ -41,10 +41,6 @@ Bas aise hi hamesha smile karte rehna.<br><br>
 once again happy birthday💖
 </p>
 
-<audio autoplay loop controls>
-  <source src="song.mp3" type="audio/mpeg">
-</audio/> ### 🎵 [Deepuu, click here to play our song (Bekhudi) 🎶](bekhudi.mp3)
-
 
 </div>
 
