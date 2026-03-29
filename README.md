@@ -38,12 +38,13 @@ Aur haan, kabhi kabhi tumhari yaad bhi aati hai… kaafi zyada.<br><br>
 
 Bas aise hi hamesha smile karte rehna.<br><br>
 
-💖
+once again happy birthday💖
 </p>
 
 <audio autoplay loop controls>
   <source src="song.mp3" type="audio/mpeg">
-</audio>
+</audio/> ### 🎵 [Deepuu, click here to play our song (Bekhudi) 🎶](bekhudi.mp3)
+
 
 </div>
 
