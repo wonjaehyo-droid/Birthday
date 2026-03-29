@@ -26,7 +26,7 @@ h1 {
 <body>
 
 <div class="box">
-<h1>🎂 Happy Birthday Deepuuu 💖</h1>
+<h1> Happy Birthday Deepuuu ✨💖</h1>
 
 <p>
 Deepak,<br><br>
@@ -38,7 +38,7 @@ Aur haan, kabhi kabhi tumhari yaad bhi aati hai… kaafi zyada.<br><br>
 
 Bas aise hi hamesha smile karte rehna.<br><br>
 
-once again happy birthday💖
+once again happy birthday💖🥺
 </p>
 
 
